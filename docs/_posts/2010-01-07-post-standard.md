@@ -1,6 +1,7 @@
 ---
 title: "Post: Standard"
 author: Marcela
+
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
