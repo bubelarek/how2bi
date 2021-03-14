@@ -1,7 +1,7 @@
 Arek:
-  name   : "Arek Bubeleski "
+  name   : "Arek Custom"
   avatar : "/assets/images/bubelarek.jpg"
-  bio    : "Tired of visual-freestyle and YOLO mananagment in BI world. Big fan of standardisation, processes and routine."
+  bio    : "BlaBlaBla"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
