@@ -1,4 +1,16 @@
-Arek:
+Marcela:
+  name   : "Mar Jan"
+  avatar : "/assets/images/bubelarek.jpg"
+  bio    : "I am analytics specialist in the healthcare industry. I have worked for the public and private sector in the provider and commissioner organisations in the United Kingdom."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/marcela-janowska-5152ab140/"
+    - label: "e-mail"
+      icon: "fas fa-fw fa-at"
+      url: "mailto:marcelajanowska@gmail.com"
+ 
+ Arek:
   name   : "Arek Custom"
   avatar : "/assets/images/bubelarek.jpg"
   bio    : "BlaBlaBla"
@@ -12,14 +24,5 @@ Arek:
     - label: "e-mail"
       icon: "fas fa-fw fa-at"
       url: "mailto:bubelarek@gmail.com"
-Marcela:
-  name   : "Mar Jan"
-  avatar : "/assets/images/bubelarek.jpg"
-  bio    : "I am analytics specialist in the healthcare industry. I have worked for the public and private sector in the provider and commissioner organisations in the United Kingdom."
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/marcela-janowska-5152ab140/"
-    - label: "e-mail"
-      icon: "fas fa-fw fa-at"
-      url: "mailto:marcelajanowska@gmail.com"
+      
+
