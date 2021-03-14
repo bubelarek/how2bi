@@ -3,40 +3,16 @@ layout: home
 author_profile: true
 ---
 
-## Welcome to GitHub Pages
+## Welcome to How2BI
 
-You can use the [editor on GitHub](https://github.com/bubelarek/how2bi/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+  How2BI is my perosonal blog around topic of how to be sussesfull in Bussiens Inteligence.
+  It will be based on my 5+ year experience in  area and most recently struggles to lead BI team in sustainable  and  organized way.
+  I will focus on work of BI team not as series of small projects but as continues process of delivering reporting solution.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## What topics will be covered
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bubelarek/how2bi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  - managing BI, mostly about  process management tools applied to BI workflows. I will be describing methodology I envision for BI work based on my education in industrial  engineering and project management 
+  - data shaping and preparation for faster dashboard and report, some my own data patters i applied in area of 
+  - visual advices and tricks me am my team applied in real work (I hope i will have guest writers in this blog)
+  
