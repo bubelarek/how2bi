@@ -16,7 +16,7 @@
 locale: "en-US"
 title: How 2 BI
 #added
-title_separator: "|"
+#title_separator: "|"
 subtitle: blog about managing reporting side of business intelligence  
 # added end
 email: bubelarek@gmail.com
@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   How2BI is place where you find tips for managing business intelligence projects. 
   It will be based on my 5+ year experience in  area and most recently struggles to lead BI team in sustainable  and  organized way.
   I will focus on work of BI team not as series of small projects but as continues process of delivering reporting solution.
-twitter_username: username
+#twitter_username: username
 github_username: bubelarek
 minimal_mistakes_skin: default
 search: true
