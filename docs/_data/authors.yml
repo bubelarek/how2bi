@@ -1,1 +1,25 @@
-
+Arek:
+  name   : "Arek Bubeleski "
+  avatar : "/assets/images/bubelarek.jpg"
+  bio    : "Tired of visual-freestyle and YOLO mananagment in BI world. Big fan of standardisation, processes and routine."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/bubelarek/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bubelarek"
+    - label: "e-mail"
+      icon: "fas fa-fw fa-at"
+      url: "mailto:bubelarek@gmail.com"
+Marcela:
+  name   : "Mar Jan"
+  avatar : "/assets/images/bubelarek.jpg"
+  bio    : "I am analytics specialist in the healthcare industry. I have worked for the public and private sector in the provider and commissioner organisations in the United Kingdom."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/marcela-janowska-5152ab140/"
+    - label: "e-mail"
+      icon: "fas fa-fw fa-at"
+      url: "mailto:marcelajanowska@gmail.com
