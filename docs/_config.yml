@@ -79,25 +79,25 @@ author:
   bio    : "Tired of visual-freestyle and YOLO mananagment in BI world. Big fan of standardisation, processes and routine."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bubelarek/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bubelarek"
     - label: "e-mail"
-      icon: "fab fa-fw fa-at"
+      icon: "fas fa-fw fa-at"
       url: "mailto:bubelarek@gmail.com"
 
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bubelarek/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bubelarek"
     - label: "e-mail"
-      icon: "fab fa-fw fa-at"
+      icon: "fas fa-fw fa-at"
       url: "mailto:bubelarek@gmail.com"
 
 defaults:
