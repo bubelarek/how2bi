@@ -1,5 +1,5 @@
 Marcela:
-  name   : "Mar Jan"
+  name   : "Marcela Jan"
   avatar : "/assets/images/bubelarek.jpg"
   bio    : "I am analytics specialist in the healthcare industry. I have worked for the public and private sector in the provider and commissioner organisations in the United Kingdom."
   links:
@@ -9,10 +9,11 @@ Marcela:
     - label: "e-mail"
       icon: "fas fa-fw fa-at"
       url: "mailto:marcelajanowska@gmail.com"
- Arek:
-  name   : "Arek Custom"
+
+Arek:
+  name   : "Arkadiusz Bubeleski "
   avatar : "/assets/images/bubelarek.jpg"
-  bio    : "BlaBlaBla"
+  bio    : "Tired of visual-freestyle and YOLO mananagment in BI world. Big fan of standardisation, processes and routine."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
