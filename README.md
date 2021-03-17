@@ -1,2 +1,7 @@
 # how2bi
-projects will be used to host scripts from blog www.how2bi.com
+- repozytotium bloga www.how2bi.com
+
+Blog postawiony z wykrozystaniem:
+- https://jekyllrb.com/
+- https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+
