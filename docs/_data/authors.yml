@@ -9,7 +9,6 @@ Marcela:
     - label: "e-mail"
       icon: "fas fa-fw fa-at"
       url: "mailto:marcelajanowska@gmail.com"
- 
  Arek:
   name   : "Arek Custom"
   avatar : "/assets/images/bubelarek.jpg"
@@ -24,5 +23,3 @@ Marcela:
     - label: "e-mail"
       icon: "fas fa-fw fa-at"
       url: "mailto:bubelarek@gmail.com"
-      
-
