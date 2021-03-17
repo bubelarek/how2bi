@@ -1,8 +1,8 @@
 # how2bi
 
-Repozytotium bloga www.how2bi.com
+Repozytorium bloga www.how2bi.com
 
-Blog postawiony z wykrozystaniem:
+Blog postawiony z wykorzystaniem:
 - https://jekyllrb.com/
 - https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
 - https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
