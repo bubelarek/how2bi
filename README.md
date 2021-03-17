@@ -1,5 +1,6 @@
 # how2bi
-- repozytotium bloga www.how2bi.com
+
+Repozytotium bloga www.how2bi.com
 
 Blog postawiony z wykrozystaniem:
 - https://jekyllrb.com/
