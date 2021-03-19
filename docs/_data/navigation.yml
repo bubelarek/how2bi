@@ -1,5 +1,7 @@
 ---
 main:
+- title: Główna
+  url: "/"
 - title: Posty
   url: "/posts/"
 - title: Kategorie
