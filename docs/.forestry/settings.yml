@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: docs/_data/authors.yml
-  label: Authors
-  match: "**/*"
 - type: directory
   path: docs/_pages
   label: Pages
@@ -19,6 +15,10 @@ sections:
 - type: jekyll-pages
   label: Index
   create: all
+- type: document
+  path: docs/_data/authors.yml
+  label: Authors
+  match: "**/*"
 upload_dir: docs/assets
 public_path: "/assets"
 front_matter_path: ''
