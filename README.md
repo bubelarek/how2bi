@@ -5,6 +5,6 @@ Repozytorium bloga www.how2bi.com
 Blog postawiony z wykorzystaniem:
 - https://jekyllrb.com/
 - https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
-- https://app.cloudcannon.com/
+- https://manage.siteleaf.com
 
 
