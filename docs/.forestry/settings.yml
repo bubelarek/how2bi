@@ -18,6 +18,9 @@ sections:
 - type: document
   path: docs/_data/authors.yml
   label: Authors
+- type: document
+  path: 'docs/_data/navigation.yml '
+  label: Navigation
   match: "**/*"
 upload_dir: docs/assets
 public_path: "/assets"
