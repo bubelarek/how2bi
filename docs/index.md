@@ -1,8 +1,8 @@
 ---
 layout: home
 author_profile: true
-
 ---
+
 ## Welcome to How2BI
 
 How2BI is my personal blog around topic of how to be successful in Business Intelligence. It will be based on my 5+ year experience in  area and most recently struggles to lead BI team in sustainable  and  organized way. I will focus on work of BI team not as series of small projects but as continues process of delivering reporting solution.
