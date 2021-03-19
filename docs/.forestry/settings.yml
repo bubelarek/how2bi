@@ -5,11 +5,6 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: docs/_data
-  label: Data
-  create: all
-  match: "**/*"
-- type: directory
   path: docs/_pages
   label: Pages
   create: all
@@ -20,6 +15,11 @@ sections:
 - type: jekyll-pages
   label: Index
   create: all
+- type: directory
+  path: docs/_data
+  label: Data
+  create: all
+  match: "*"
 upload_dir: docs/assets
 public_path: "/assets"
 front_matter_path: ''
