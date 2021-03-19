@@ -6,5 +6,5 @@ main:
   url: "/categories/"
 - title: Tagi
   url: "/tags/"
-- title: About
+- title: O mnie
   url: "/about/"
