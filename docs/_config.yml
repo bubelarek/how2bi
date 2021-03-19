@@ -31,8 +31,9 @@ plugins:
 author:
   name: 'Arkadiusz Bubeleski '
   avatar: "/assets/images/bubelarek.jpg"
-  bio: Tired of visual-freestyle and YOLO mananagment in BI world. Big fan of standardisation,
-    processes and routine.
+  bio: Promotor standaryzacji w raportowaniu zarówno w warstwie wizualnej jak i back-endu
+    danych.  Zwolennik podejścia procesowego w zarządzaniu produkcją analiz oraz dashboardów
+    BI.
   links:
   - label: LinkedIn
     icon: fab fa-fw fa-linkedin
