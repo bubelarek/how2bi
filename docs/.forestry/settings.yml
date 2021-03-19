@@ -20,6 +20,10 @@ sections:
   label: Data
   create: all
   match: "*"
+- type: document
+  path: docs/_config.yml
+  label: Config
+  match: "**/*"
 upload_dir: docs/assets
 public_path: "/assets"
 front_matter_path: ''
