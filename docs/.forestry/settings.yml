@@ -16,11 +16,11 @@ sections:
   label: Index
   create: all
 - type: document
-  path: 'docs/_data/navigation.yml '
-  label: Navigation
-- type: document
   path: docs/_data/authors.yml
   label: Authors
+- type: document
+  path: 'docs/_data/navigation.yml '
+  label: Navigation
 upload_dir: docs/assets
 public_path: "/assets"
 front_matter_path: ''
