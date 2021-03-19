@@ -2,7 +2,7 @@
 main:
 - title: Posty
   url: "/posts/"
-- title: Categories
+- title: Kategorie
   url: "/categories/"
 - title: Tags
   url: "/tags/"
