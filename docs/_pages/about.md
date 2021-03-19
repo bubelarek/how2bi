@@ -1,8 +1,12 @@
 ---
-permalink: /about/
-title: "About"
+permalink: "/about/"
+title: About
+
 ---
+## O mnie
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Promotor standaryzacji w raportowaniu zarówno w warstwie wizualnej jak i back-endu danych.  Zwolennik podejścia procesowego w zarządzaniu produkcją analiz oraz dashboardów.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Staram się kierować przedsięwzięciami BI w zrównoważony i zorganizowany sposób, unikam metody 'wielkiego wybuchu' oraz zażądaniu w stylo YOLO (you only live once pl. żyje się raz). Pracę zespołów analitycznych widzę nie jako dostarczane projekty ale jako jako ciągły proces dostarczania rozwiązań opartych na danych.
+
+Jestem wielkim fanem standaryzacji oraz prostoty w raportowaniu, uważam iż każda organizacja powinna wytworzyć zrozumiały dla wszystkich odbiorców język wizualny, który będzie spójnie wykorzystywany w wszystkich produktach. 
