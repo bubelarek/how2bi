@@ -1,5 +1,5 @@
 ---
-permalink: "/anim/"
+permalink: "/onim/"
 title: O nim
 
 ---
