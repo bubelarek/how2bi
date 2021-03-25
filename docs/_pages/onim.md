@@ -1,6 +1,6 @@
 ---
-permalink: "/about/"
-title: O mnie
+permalink: "/anim/"
+title: O nim
 
 ---
 Promotor standaryzacji w raportowaniu zarówno w warstwie wizualnej jak i back-endu danych.  Zwolennik podejścia procesowego w zarządzaniu produkcją analiz oraz dashboardów.
