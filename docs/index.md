@@ -1,8 +1,8 @@
 ---
 layout: home
-author_profile: true
-
+author_profile: false
 ---
+
 ## Witam na moim blogu How 2 BI
 
 How2BI to miejsce, w którym znajdziesz wskazówki dotyczące zarządzania projektami Business Intelligence. Bedę się dzielił moim  doświadczeniem w tej dziedzinie jako analityk danych, Bi deweloper oraz leader zespołu.
